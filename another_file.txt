@@ -3,3 +3,5 @@ This line was modified in the feature-2 branch
 This file was modiefid localy
 I Alberto, autorized the process to modiefid this file
 This line was modified in the feature-2 branch
+
+another modified in the feature-2 branch
